@@ -10,19 +10,11 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     z-index: 9999;
     width: 400px;
-    /* Adjust width as needed */
     max-width: 90%;
-    /* Set a maximum width if necessary */
     height: auto;
-    /* Let the height adjust based on content */
     max-height: 80%;
-    /* Set a maximum height if necessary */
     overflow-y: auto;
-    /* Enable vertical scrolling if content exceeds the height */
 }
-
-/* Rest of the styles remain the same */
-
 .closeBtn {
     position: absolute;
     top: 5px;

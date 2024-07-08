@@ -8,8 +8,8 @@
 
 .link {
     display: flex;
-    background-color: rgb(0, 148, 247);
-    padding: 4px;
+    background-color: rgb(255, 106, 0);
+        padding: 4px;
     border-radius: 5px;
     transition: all 200ms ease-in-out;
 
@@ -20,5 +20,5 @@
 }
 
 .active {
-    background-color: rgb(238, 255, 0);
+    background-color: rgb(255, 106, 0);
 }
