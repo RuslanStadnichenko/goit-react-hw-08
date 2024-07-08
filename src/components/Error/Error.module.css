@@ -1,0 +1,11 @@
+.div {
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.text {
+    font-size: 14px;
+    text-align: center;
+    text-decoration: underline solid 2px rgb(75, 4, 4);
+}

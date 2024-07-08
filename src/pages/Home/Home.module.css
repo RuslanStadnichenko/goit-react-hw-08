@@ -1,0 +1,18 @@
+.div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.icon {
+    width: 40%;
+    height: auto;
+}
+
+.title {
+    color: rgb(0, 38, 255);
+    font-size: 50px;
+}
